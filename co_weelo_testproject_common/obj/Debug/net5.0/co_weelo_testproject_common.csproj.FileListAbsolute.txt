@@ -1,0 +1,12 @@
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\bin\Debug\net5.0\co_weelo_testproject_common.deps.json
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\bin\Debug\net5.0\co_weelo_testproject_common.dll
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\bin\Debug\net5.0\ref\co_weelo_testproject_common.dll
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\bin\Debug\net5.0\co_weelo_testproject_common.pdb
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\obj\Debug\net5.0\co_weelo_testproject_common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\obj\Debug\net5.0\co_weelo_testproject_common.AssemblyInfoInputs.cache
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\obj\Debug\net5.0\co_weelo_testproject_common.AssemblyInfo.cs
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\obj\Debug\net5.0\co_weelo_testproject_common.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\obj\Debug\net5.0\co_weelo_testproject_common.dll
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\obj\Debug\net5.0\ref\co_weelo_testproject_common.dll
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\obj\Debug\net5.0\co_weelo_testproject_common.pdb
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_common\obj\Debug\net5.0\co_weelo_testproject_common.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MKqzYME5YH0ww5oXvAC6+0723f7vrTwzT2lJjHf28unKvTb0vzmhPkZWuMiEi+ukYCuqAVSK4YiKEhFOBotM1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexander Molina\\Desktop\\Pruebas Weelo\\co_weelo_testproject_master\\co_weelo_testproject_common\\co_weelo_testproject_common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander Molina\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Alexander Molina\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
+    "C:\\Users\\Alexander Molina\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.3\\fluentvalidation.aspnetcore.9.5.3.nupkg.sha512",
+    "C:\\Users\\Alexander Molina\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.3\\fluentvalidation.dependencyinjectionextensions.9.5.3.nupkg.sha512",
+    "C:\\Users\\Alexander Molina\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Alexander Molina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Alexander Molina\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

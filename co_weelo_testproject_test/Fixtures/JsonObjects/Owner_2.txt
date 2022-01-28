@@ -1,0 +1,9 @@
+{
+  "IdOwner": 2,
+  "Name": "Owner Name 2",
+  "Address": "Carrera 14 # 16 - 17",
+  "Photo": "",
+  "Birthday": "2020-07-05",
+  "Enabled": true,
+  "CreationDate": "2010-02-02"
+ }

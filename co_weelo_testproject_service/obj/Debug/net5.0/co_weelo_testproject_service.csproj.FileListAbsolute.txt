@@ -1,0 +1,17 @@
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\obj\Debug\net5.0\co_weelo_testproject_service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\obj\Debug\net5.0\co_weelo_testproject_service.AssemblyInfoInputs.cache
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\obj\Debug\net5.0\co_weelo_testproject_service.AssemblyInfo.cs
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\obj\Debug\net5.0\co_weelo_testproject_service.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\bin\Debug\net5.0\co_weelo_testproject_service.deps.json
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\bin\Debug\net5.0\co_weelo_testproject_service.dll
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\bin\Debug\net5.0\ref\co_weelo_testproject_service.dll
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\bin\Debug\net5.0\co_weelo_testproject_service.pdb
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\obj\Debug\net5.0\co_weelo_testproject_service.dll
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\obj\Debug\net5.0\ref\co_weelo_testproject_service.dll
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\obj\Debug\net5.0\co_weelo_testproject_service.pdb
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\obj\Debug\net5.0\co_weelo_testproject_service.csproj.AssemblyReference.cache
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\bin\Debug\net5.0\co_weelo_testproject_common.dll
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\bin\Debug\net5.0\co_weelo_testproject_dal.dll
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\bin\Debug\net5.0\co_weelo_testproject_dal.pdb
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\bin\Debug\net5.0\co_weelo_testproject_common.pdb
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\co_weelo_testproject_service\obj\Debug\net5.0\co_weelo_testproject_service.csproj.CopyComplete

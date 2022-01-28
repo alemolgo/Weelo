@@ -1,0 +1,5 @@
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\obj\Debug\net5.0\co_weelo_testproject_master.csproj.AssemblyReference.cache
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\obj\Debug\net5.0\co_weelo_testproject_master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\obj\Debug\net5.0\co_weelo_testproject_master.AssemblyInfoInputs.cache
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\obj\Debug\net5.0\co_weelo_testproject_master.AssemblyInfo.cs
+C:\Users\Alexander Molina\Desktop\co_weelo_testproject_master\obj\Debug\net5.0\co_weelo_testproject_master.csproj.CoreCompileInputs.cache
